@@ -1,4 +1,4 @@
-# Three-Strikes.io
+# Three-Strikes
 
 - This program is a game where the user has to pick a chip from a bag and the chip will be either a digit or strike. 
 - There are three strikes allowed until you lose the game. 
